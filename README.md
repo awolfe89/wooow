@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="./static/owen.png" alt="logo" width="200" height="auto" />
   <h1>WooW</h1>
   
   <p>
@@ -111,6 +111,7 @@
 | cardHeadline | ![#E0FBFC](https://via.placeholder.com/10/EEEEEE?text=+) #E0FBFC |
 | cardText | ![#293241](https://via.placeholder.com/10/EEEEEE?text=+) #293241 |
 
+color pallette generated from <a href="www.coolers.io">Coolers.io</a>, specific pallette <a href="https://coolors.co/palette/3d5a80-98c1d9-e0fbfc-ee6c4d-293241">here</a>
 
 
 <!-- Env Variables -->
@@ -176,13 +177,13 @@ generate static project
 ```bash
 $ npm run generate
 ```
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+For detailed explanation on how things work with NuxtJS, check out their [documentation](https://nuxtjs.org).
 <!-- Usage -->
 ## :eyes: Usage
 
 This is a simple Nuxt app that calls an Owen Wilson API that a Redditor created on /r/webdev using axios and renders the data using Vue/Vuetify on the front end.
 
-The entire app (not that it is very big), uses components which are coded and then imported into a given page as can be seen in the code below
+The entire app (not that it is very big), uses components which are coded and then imported into a given page as can be seen in the code for our 'home' page below
 
 ```javascript
 
@@ -248,7 +249,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - Allan - admin@methodpet.com
+Allan - admin@methodpet.com
 
 
 <!-- Acknowledgments -->
