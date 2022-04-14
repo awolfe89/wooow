@@ -11,22 +11,19 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/awolfe89/woow/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/awolfe89/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/awolfe89/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
   <a href="https://github.com/awolfe89/woow/network/members">
-    <img src="https://img.shields.io/github/forks/awolfe89/awesome-readme-template" alt="forks" />
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
   <a href="https://github.com/awolfe89/woow/stargazers">
-    <img src="https://img.shields.io/github/stars/awolfe89/awesome-readme-template" alt="stars" />
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
   <a href="https://github.com/awolfe89/woow/issues/">
-    <img src="https://img.shields.io/github/issues/awolfe89/awesome-readme-template" alt="open issues" />
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
   <a href="https://github.com/awolfe89/woow/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/awolfe89/awesome-readme-template.svg" alt="license" />
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
 </p>
    
