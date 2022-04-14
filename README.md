@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="./static/owen.png" alt="logo" width="200" height="auto" />
-  <h1>WooW</h1>
+
   
   <p>
     An exercise in consuming APIs
